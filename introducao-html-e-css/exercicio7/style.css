@@ -1,18 +1,39 @@
-body{
-  font-family: Arial, Helvetica, sans-serif;
-}
-h1, p{
-  text-align: center;
+.super-mario {
+  width: 250px;
+  position: absolute;
+  left: 60px;
+  top: 120px;
+  z-index: 1;
+
 }
 
-li:hover{
-  background-color: blueviolet;
+.goomba {
+  width: 100px;
+  position: absolute;
+  top: 500px;
+  left: 140px;
+  z-index: 2;
 }
 
-li:active{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+.baloon {
+  position: absolute;
+  top: 300px;
+  left: 400px;
+  z-index: 3;
 }
 
-li{
-  list-style: none;
+.speach {
+  font-size: 25px;
+  position: absolute;
+  left: 425px;
+  top: 340px;
+  z-index: 4;
+}
+
+.bowser {
+  width: 200px;
+  position: absolute;
+  top: 450px;
+  left: 700px;
+  z-index: 5;
 }
