@@ -1,3 +1,4 @@
+Para este exercício, você não deve atribuir nenhuma classe ou id aos componentes, mas apenas utilizar pseudo-classes para individualizar cada elemento!
 Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 
 Faça cada div ter uma cor de fundo própria.
