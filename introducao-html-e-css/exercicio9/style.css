@@ -1,3 +1,23 @@
 div:hover{
-border: 5px solid green;
+border: 5px solid violet;
+}
+
+div:first-of-type{
+  background-color: red;
+}
+
+div:nth-of-type(2){
+  background-color: darkgreen;
+}
+
+div:nth-of-type(3){
+  background-color: coral;
+}
+
+div:nth-of-type(4){
+  background-color: darkblue;
+}
+
+div:last-of-type{
+  background-color: bisque;
 }
