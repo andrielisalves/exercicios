@@ -35,3 +35,27 @@ li em{
   background-color: pink;
 }
 
+#stack:hover{
+  color: orange;
+  font-weight: bold;
+}
+
+#w3s:hover{
+  color: green;
+  font-weight: bold;
+}
+
+#mdn:hover{
+  color: black;
+  font-weight: bold;
+}
+
+#dev:hover{
+  color: yellow;
+  font-weight: bold;
+}
+
+#trybe:hover{
+  color: greenyellow;
+  font-weight: bold;
+}
