@@ -1,0 +1,18 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1, p{
+  text-align: center;
+}
+
+li:hover{
+  background-color: blueviolet;
+}
+
+li:active{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+  list-style: none;
+}
