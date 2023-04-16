@@ -27,6 +27,11 @@ li em{
   font-weight: bold;
 }
 
-#liguagens{
+.linguagens{
   color: blue;
 }
+
+.java{
+  background-color: pink;
+}
+
