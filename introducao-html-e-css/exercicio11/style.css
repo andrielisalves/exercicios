@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+}
+
+.lugares{
+  text-align: center;
+  }
+
+.first {
+  display: block;
+  background-color: rgb(235, 200, 84);
+  font-size: 20px;
+  height: 50px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.second {
+  background-color: rgb(219, 219, 219);
+  font-size: 20px;
+  height: 50px;
+  width: 300px;
+  display: inline-block;
+}
+
+.third {
+  background-color: rgb(170, 142, 106);
+  font-size: 20px;
+  height: 50px;
+  width: 300px;
+  display: inline-block;
+}
+
+.premiacao li{
+  display: inline;
+}
+
+.premiacao{
+  text-align: center;
+}
